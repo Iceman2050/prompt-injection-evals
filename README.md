@@ -1,3 +1,5 @@
+[![AI Security Score](https://ingeniousai-security-checks.netlify.app/badges/prompt-injection-evals.svg)](https://ingeniousai-security-checks.netlify.app/ai-security-badge.html)
+
 # prompt-injection-evals
 
 **A standard yardstick for AI-agent safety.** 58 attack cases across 8 published
